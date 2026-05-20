@@ -71,7 +71,7 @@ You agree that the Project is not obligated to use or merge your Contribution.
 
 You agree that your Contribution will be released under:
 
-* The project’s primary license (**Apache 2.0** or **other dual-license configuration** used by AIC), and
+* The project’s primary license (**GPL-3.0** or **other dual-license configuration** used by AIC), and
 * Any additional licenses required for compatibility with Linux Foundation-style ecosystems or downstream adopters.
 
 ---
