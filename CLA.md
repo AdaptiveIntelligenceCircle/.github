@@ -106,7 +106,7 @@ Date:14/11/2025
 
 * This CLA aligns with:
 
-  * Apache Individual CLA
+  * GPL-3.0 Individual CLA
   * Linux Foundation Individual CLA
   * CNCF Contributor License Terms
 * It is intentionally written **lightweight** but **legally complete**, suitable for your upcoming expansion and integration with LF ecosystems.
