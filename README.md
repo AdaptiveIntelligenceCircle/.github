@@ -36,10 +36,10 @@ bridging reasoning, security, and human-centered structure at the kernel level.
 | Project | Description | Status |
 |----------|--------------|---------|
 | [Adaptive AI](https://github.com/AdaptiveIntelligenceCircle/Adaptive-AI) | Core framework for meta-learning, context adaptation, and self-defense. | 🧩 Pre-release |
-| [IBCS](https://github.com/AdaptiveIntelligenceCircle/IBCS) | Introspective Behavioral Compiler System — reasoning and simulation layer. | 🚧 In Progress |
-| [Adaptive OS](https://github.com/AdaptiveIntelligenceCircle/Adaptive-OS) | A distributed adaptive operating system kernel for intelligent infrastructure. | 🧠 Prototype |
-| [AI for Driver](https://github.com/AdaptiveIntelligenceCircle/AIForDriver) | Real-world application of adaptive AI for driver safety and decision-making. | ⚙️ Active |
-| [Driver Introspective Proxy](https://github.com/AdaptiveIntelligenceCircle/Driver-Introspective-Proxy) | Behavioral proxy system for human-AI co-adaptation. | 🌱 Early stage |
+| [IBCS](https://github.com/AdaptiveIntelligenceCircle/IBCS) | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
+| [Adaptive OS](https://github.com/AdaptiveIntelligenceCircle/Adaptive-OS) | A distributed adaptive operating system kernel for intelligent infrastructure. | Prototype |
+| [AI for Driver](https://github.com/AdaptiveIntelligenceCircle/AIForDriver) | Real-world application of adaptive AI for driver safety and decision-making. | Active |
+| [Driver Introspective Proxy](https://github.com/AdaptiveIntelligenceCircle/Driver-Introspective-Proxy) | Behavioral proxy system for human-AI co-adaptation. | In Progress |
 
 ---
 
