@@ -53,6 +53,18 @@ bridging reasoning, security, and human-centered structure at the kernel level.
 
 ---
 
+## Core Roadmap
+
+| Term | Meaning |
+|------|---------|
+| **AIC** | Adaptive Intelligence Circle – overall protocol / ecosystem |
+| **AIN** | Adaptive Intelligence Network – next-scale network vision after AIC |
+| **HMN** | Human Meaning Network – meaning-preservation layer |
+| **TestNet** | Controlled validation network (not production MainNet) |
+| **MainNet-ready** | Phase after formal promotion checklist; public contributor path |
+
+---
+
 ## 💬 Join the Community
 
 We’re building a **global community of engineers, researchers, and dreamers**.
