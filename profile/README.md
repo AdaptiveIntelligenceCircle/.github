@@ -2,32 +2,27 @@
 
 > **Building the Next Generation of Civilizational Protocol.**
 
-<!-- <h1 align="center">
-  <img src="assets/org.png" style="max-width: 100%; height: auto;"/><br>
-  Nguyen Duc Tri
-</h1> -->
-
-The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century.
-
-> AIC/HMN is licensed under GPL-3.0. Any fork or derivative work must keep the same license and respect the core principles: zero-donation, third path independence, and ethical-from-kernel. The project is currently maintained by the founder. During the founder’s mandatory military service (expected 7-11/2027), the project will enter maintenance mode. All code remains public and transparent.”
+<!-- <p align="center">
+  <img src="https://github.com/AdaptiveIntelligenceCircle/.github/assets/org.png" width="600"/>
+</p> -->
 
 ---
 
 ## 🧠 Vision
 
-We believe that **AI should not only learn — it should understand, adapt, and protect itself**.
+We believe that **AI should not only learn — it should understand, adapt, and preserve meaning**.
 
 Our mission is to create a **foundation of open technologies** that combine:
 - **Adaptive AI** (meta-learning & self-regulation)
-- **Introspective Behavioral Systems** (IBCS)
+- **Introspective Behavioral Systems (IBCS)**
 - **Driver Introspective Proxy**
 - **AI for Driver**
-- **Adaptive OS** and **other significant projects**
+- **Adaptive OS**
+- **AIC-Emergence, AIC-Resonance, AIC-Transcendence, AIC-Covenant**
 
-Together, these projects aim to form a **distributed cognitive infrastructure** —  
-bridging reasoning, security, and human-centered structure at the kernel level.
+Together, these projects form a **distributed cognitive infrastructure** — bridging reasoning, security, and human-centered structure at the kernel level.
 
-> **Upcoming projects: AIC-Agents, AIC-Research, AIC-DePin, AIC-Earth, AIC-EdgeOS, etc.. (in active development – coming 2026)**
+> **Upcoming projects: AIC-Agents, AIC-Research, AIC-DePin, AIC-Earth, AIC-EdgeOS (active development – coming 2026)**
 
 ---
 
@@ -35,77 +30,47 @@ bridging reasoning, security, and human-centered structure at the kernel level.
 
 | Project | Description | Status |
 |----------|--------------|---------|
-| [Adaptive AI](https://github.com/AdaptiveIntelligenceCircle/Adaptive-AI) | Core framework for meta-learning, context adaptation, and self-defense. | 🧩 Pre-release |
-| [IBCS](https://github.com/AdaptiveIntelligenceCircle/IBCS) | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
-| [Adaptive OS](https://github.com/AdaptiveIntelligenceCircle/Adaptive-OS) | A distributed adaptive operating system kernel for intelligent infrastructure. | Prototype |
-| [AI for Driver](https://github.com/AdaptiveIntelligenceCircle/AIForDriver) | Real-world application of adaptive AI for driver safety and decision-making. | Active |
-| [Driver Introspective Proxy](https://github.com/AdaptiveIntelligenceCircle/Driver-Introspective-Proxy) | Behavioral proxy system for human-AI co-adaptation. | In Progress |
+| **Adaptive AI** | Core framework for meta-learning, context adaptation, and self-defense. | 🧩 Pre-release |
+| **IBCS** | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
+| **Adaptive OS** | Distributed adaptive operating system kernel for intelligent infrastructure. | Prototype |
+| **AI for Driver** | Real-world application of adaptive AI for driver safety and decision-making. | Active |
+| **Driver Introspective Proxy** | Behavioral proxy system for human-AI co-adaptation. | In Progress |
+| **AIC-Emergence** | Phase 1 — community foundation, conduct & contribution. | Active |
+| **AIC-Resonance** | Phase 2 — global resonance, community alignment. | Active |
+| **AIC-Transcendence** | Phase 3 — transcending borders, governance structure. | Active |
+| **AIC-Covenant** | Phase 4 — covenant of meaning-preserving resilience. | Active |
 
 ---
 
 ## ⚙️ Core Principles
 
-1. **Transparency** — All research and code are fully open under the Apache 2.0 license.  
-2. **Adaptivity** — Systems must evolve based on context, uncertainty, and prior knowledge.  
+1. **Transparency** — All research and code are fully open under GPL-3.0.  
+2. **Adaptivity** — Systems evolve based on context, uncertainty, and prior knowledge.  
 3. **Trust** — Every component is designed for interpretability and reliability.  
 4. **Human Alignment** — AI should protect and augment, not replace, human capability.  
-5. **Long-term Stability** — Focus on controlled intelligence over uncontrolled power.
+5. **Meaning-Preserving** — Infrastructure must safeguard meaning across generations.  
+6. **Long-term Stability** — Controlled intelligence over uncontrolled power.
 
 ---
 
-## Core Roadmap
+## 🌐 Strategic Collaborations (as of 8/2026)
 
-| Term | Meaning |
-|------|---------|
-| **AIC** | Adaptive Intelligence Circle – overall protocol / ecosystem |
-| **AIN** | Adaptive Intelligence Network – next-scale network vision after AIC |
-| **HMN** | Human Meaning Network – meaning-preservation layer |
-| **TestNet** | Controlled validation network (not production MainNet) |
-| **MainNet-ready** | Phase after formal promotion checklist; public contributor path |
-
----
-
-## 💬 Join the Community
-
-We’re building a **global community of engineers, researchers, and dreamers**.
-
-- 🌍 [GitHub Discussions](https://github.com/orgs/AdaptiveIntelligenceCircle/discussions)  
-- 💡 [Contributing Guide](https://github.com/AdaptiveIntelligenceCircle/.github/blob/main/CONTRIBUTING.md)  
-- 🧾 [Code of Conduct](https://github.com/AdaptiveIntelligenceCircle/.github/blob/main/CODE_OF_CONDUCT.md)  
-- 🧭 [Roadmap](https://github.com/AdaptiveIntelligenceCircle/.github/blob/main/ROADMAP.md)
-
-If you believe in **ethical, adaptive, and self-reflective AI**,  
-you’re already part of this movement.
-
----
-
-## 🧩 License
-
-All repositories are licensed under the **GNU GPL-3.0** and **OpenMDW-1.0**, ensuring freedom to use, modify, and distribute with attribution.
-
----
-
-## 🤝 Collaborations
-
-The organization welcomes research collaboration and open development with:
-- Universities & research labs
-- AI foundations and institutes
-- Industrial partners (AI safety, autonomous systems, operating systems)
-
-If you’re interested in **partnership or integration**, reach out via:
-> ✉️ contact@ndtribk@gmail.com *(or Open Collective page)*
+- **The IO Foundation / Estonia** — legal & institutional backbone.  
+- **UNITAR (informal advisor)** — resonance with UN-level policy.  
+- **Open Collective Europe** — transparent funding & audit.  
+- **The Leading Niche (LeadWithAI Podcast)** — narrative & spotlight.  
+- **The AI Alliance** — webinars & open-source collaboration.  
+- **FlyRankAI** — internship pipeline for continuity.  
 
 ---
 
 ## 🧭 About the Founder
 
-<!-- **Nguyễn Đức Trí** — Founder & Chief Architect  
-🎓 B.S. in Computer Science, Troy University (HUST program)  
+**Nguyễn Đức Trí** — Founder & Chief Architect  
+🎓 Final-year student at HUST, TechUp Fellow at The IO Foundation  
 💡 Focus: Adaptive AI Systems, Distributed OS, Cognitive Simulation  
 🎙 Featured on: *Lead with AI Podcast (#1 Tech)*  
-🌐 [LinkedIn](https://linkedin.com/in/nguyễnđứctrí) | [GitHub](https://github.com/CodelikeC) -->
-
-<p> Nguyễn Đức Trí - born August 18, 2004, is a Vietnamese programmer and independent technology founder. He developed Adaptive Intelligence Circle – a multi-layered civilization restructuring protocol that emerged in April 2025. It is the culmination of over 40 open repositories as of July 2026 and aims for the innovate, fundamental revolution in technology and humanitarian values. At the age of 20 years and 8 months 10 days, he is one of the youngest (possibly the youngest) people in Vietnam and the world to implement a long-term vision through a multi-layered civilization protocol from Global South. He is currently a final-year student at HUST and a TechUp Fellow at The IO Foundation.</p>
+🌐 [LinkedIn](https://linkedin.com/in/nguyễnđứctrí) | [GitHub](https://github.com/CodelikeC)
 
 > “If intelligence is the ability to adapt, then the next evolution of AI must begin with adaptation itself.”
 
