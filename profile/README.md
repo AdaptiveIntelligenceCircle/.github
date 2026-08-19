@@ -6,6 +6,15 @@
   <img src="https://github.com/AdaptiveIntelligenceCircle/.github/assets/org.png" width="600"/>
 </p> -->
 
+<!-- <h1 align="center">
+  <img src="profile/org.png" style="max-width: 100%; height: auto;"/><br>
+  Nguyen Duc Tri
+</h1> -->
+
+<!-- ![Logo](https://githubusercontent.com/AdaptiveIntelligenceCircle/.github/profile/org.png) -->
+
+<img src="./AIC x IO Foundation.png?v=1" alt="Logo" />
+
 ---
 
 ## 🧠 Vision
