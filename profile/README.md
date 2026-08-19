@@ -13,7 +13,7 @@
 
 <!-- ![Logo](https://githubusercontent.com/AdaptiveIntelligenceCircle/.github/profile/org.png) -->
 
-<img src="./AIC x IO Foundation.png?v=1" alt="Logo" />
+<img src="./AIC x IO Foundation.png" alt="Logo" />
 
 ---
 
