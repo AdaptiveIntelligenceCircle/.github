@@ -2,10 +2,10 @@
 
 > **Building the Next Generation of Civilizational Protocol.**
 
-<h1 align="center">
-  <img src="assets/AIC x IO Foundation.png" style="max-width: 100%; height: auto;"/><br>
+<!-- <h1 align="center">
+  <img src="assets/org.png" style="max-width: 100%; height: auto;"/><br>
   Nguyen Duc Tri
-</h1>
+</h1> -->
 
 The Adaptive Intelligence Circle is now present on multiple platforms such as Github, Open Collective, Codeberg, GitLab, YouTube, LinkedIn, Reddit, Substack and Apple Podcast with LeadWithAI (#1 Tech), and has received positive reception from the open-source community as well as attention from major institutions – xAI, Amazon, Meta, Polarity, Invisible Technologies, Alibaba, Forge, Triple AI, FlyRank AI, The IO Foundation – due to its systematic approach and potential to open a new path in the increasingly fierce AI competition of the 21st century.
 
