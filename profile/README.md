@@ -19,7 +19,7 @@
 
 ## OVERVIEW
  
-Adaptive Intelligence Circle (AIC) is a non-profit open technology organization founded by Nguyen Duc Tri in April 2025, with a vision towards a decentralized, civilized protocol that creates positive change in Global South and the world at large. AIC focuses on key 21st-century issues such as decentralized governance, Ethical From Kernel, Zero donation (not receive grants from Government/Big Tech or unrealible orgnization) and the third path. The organization respects the principle of software freedom while also upholding ethical and transparent infrastructure development principles. As of July 2026, AIC has a large volume of diverse repositories across all popular platforms such as Github, Open Collective, Codeberg, and GitLab, and is also promoted through YouTube, LinkedIn, Reddit, Substack, and Apple Podcast with LeadWithAI (#1 Tech).
+Adaptive Intelligence Circle (AIC) is a non-profit open technology organization founded by Nguyen Duc Tri in April 2025, with a vision towards a decentralized, civilized protocol that creates positive change in Global South and the world at large. AIC focuses on key 21st-century issues such as decentralized governance, Ethical From Kernel, Zero donation (not receive grants from Government/Big Tech or unrealible organization) and the third path. The organization respects the principle of software freedom while also upholding ethical and transparent infrastructure development principles. As of July 2026, AIC has a large volume of diverse repositories across all popular platforms such as Github, Open Collective, Codeberg, and GitLab, and is also promoted through YouTube, LinkedIn, Reddit, Substack, and Apple Podcast with LeadWithAI (#1 Tech).
 
 ## The reason of why AIC must exists
 
@@ -49,7 +49,7 @@ Our mission is to create a **foundation of open technologies** that combine:
 - **Driver Introspective Proxy**
 - **AI for Driver**
 - **Adaptive OS**
-- **AIC-Emergence, AIC-Resonance, AIC-Transcendence, AIC-Covenant** and **many other siginificant projects**
+- **AIC-Emergence, AIC-Resonance, AIC-Transcendence, AIC-Covenant** and **many other significant projects**
 
 Together, these projects form a **distributed cognitive infrastructure** — bridging reasoning, security, and human-centered structure at the kernel level.
 
