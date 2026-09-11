@@ -87,23 +87,14 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 
 ## 🌐 Strategic Collaborations (as of 8/2026)
 
-<!-- <img src="./Designer.png" width="100%" style="aspect-ratio: 16/9; object-fit: cover;" alt="Ảnh 16:9 sắc nét"> -->
+<img src="./Designers.png" alt="Logo" />
 
-<img
-src="./Designer.png"
-alt="Ảnh 16:9 sắc nét"
-style="
-width:100%;
-aspect-ratio:16/9;
-object-fit:contain;
-background:#000"/> 
-
-<!-- - **The IO Foundation / Estonia** — legal & institutional backbone.  
+**The IO Foundation / Estonia** — legal & institutional backbone.  
 - **UNITAR (informal advisor)** — resonance with UN-level policy.  
 - **Open Collective Europe** — transparent funding & audit.  
 - **The Leading Niche (LeadWithAI Podcast)** — narrative & spotlight.  
 - **The AI Alliance** — webinars & open-source collaboration.  
-- **FlyRankAI** — internship pipeline for continuity.   -->
+- **FlyRankAI** — internship pipeline for continuity.
 
 ---
 
