@@ -96,7 +96,7 @@ style="
 width:100%;
 aspect-ratio:16/9;
 object-fit:contain;
-background:#000;
+background:#000"/> 
 
 <!-- - **The IO Foundation / Estonia** — legal & institutional backbone.  
 - **UNITAR (informal advisor)** — resonance with UN-level policy.  
