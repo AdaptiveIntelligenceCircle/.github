@@ -87,7 +87,10 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 
 ## 🌐 Strategic Collaborations (as of 8/2026)
 
-<img src="./Designer.png" width="100%" style="aspect-ratio: 16/9; object-fit: cover;" alt="Ảnh 16:9 sắc nét">
+<svg viewBox="0 0 16 9" width="100%">
+  <image href="./Designer.png" x="0" y="-4.5" width="16" height="23" preserveAspectRatio="xMidYMid slice"/>
+</svg>
+
 
 <!-- - **The IO Foundation / Estonia** — legal & institutional backbone.  
 - **UNITAR (informal advisor)** — resonance with UN-level policy.  
