@@ -89,7 +89,7 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 
 <img src="./Designers.png" alt="Logo" />
 
-**The IO Foundation / Estonia** — legal & institutional backbone.  
+- **The IO Foundation / Estonia** — legal & institutional backbone.  
 - **UNITAR (informal advisor)** — resonance with UN-level policy.  
 - **Open Collective Europe** — transparent funding & audit.  
 - **The Leading Niche (LeadWithAI Podcast)** — narrative & spotlight.  
