@@ -1,4 +1,4 @@
-# Adaptive Intelligence Circle Organization
+# Adaptive Intelligence Circle Foundation
 
 > **Building the Next Generation of Civilizational Protocol.**
 
@@ -62,15 +62,15 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 | Project | Description | Status |
 |----------|--------------|---------|
 | **Adaptive AI** | Core framework for meta-learning, context adaptation, and self-defense. | 🧩 Pre-release |
-| **IBCS** | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
+| **IBCS (Private repo)** | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
 | **Adaptive OS** | Distributed adaptive operating system kernel for intelligent infrastructure. | Prototype |
 | **AI for Driver** | Real-world application of adaptive AI for driver safety and decision-making. | Active |
 | **Driver Introspective Proxy** | Behavioral proxy system for human-AI co-adaptation. | In Progress |
-| **AIC-TestNet** | Phase 0 — foundation, conduct & contribution. | Active |
-| **AIC-Emergence** | Phase 1 — Extend and maintainence. | Active |
-| **AIC-Resonance** | Phase 2 — global resonance, community alignment. | Active |
-| **AIC-Transcendence** | Phase 3 — transcending borders, governance structure. | Active |
-| **AIC-Covenant** | MainNet — covenant of meaning-preserving resilience. | Active |
+| **AIC-TestNet (Private repo)** | Phase 0 — foundation, conduct & contribution. | Active |
+| **AIC-Emergence (Private repo)** | Phase 1 — Extend and maintainence. | Active |
+| **AIC-Resonance (Private Repo)** | Phase 2 — global resonance, community alignment. | Active |
+| **AIC-Transcendence (Private Repo)** | Phase 3 — transcending borders, governance structure. | Active |
+| **AIC-Covenant (Private Repo)** | MainNet — covenant of meaning-preserving resilience. | Active |
 
 ---
 
