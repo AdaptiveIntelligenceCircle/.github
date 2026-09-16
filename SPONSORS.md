@@ -5,7 +5,8 @@ We sincerely thank all individuals and organizations who have partnered with **A
 ### AIC's Sponsorship Philosophy
 
 AIC operates on the **Zero-Donation core principle**:
-We **do not accept any conditional sponsorships** from Big Tech, the government, or any organization that could affect the project's direction and independence.
+
+> We **do not accept any conditional sponsorships** from Big Tech, the government, or any organization that could affect the project's direction and independence.
 
 All support is only accepted if:
 
@@ -24,7 +25,7 @@ We highly value contributions of intellect and time:
 - Design, translation, infrastructure support
 - In-depth ideas and feedback
 
-**2. GitHub Sponsors** You can provide small, transparent financial support through GitHub Sponsors.
+**2. Open Collective**: You can provide small, transparent financial support through Open Collective.
 
 All grants are fully disclosed on [Open Collective](https://opencollective.com/adaptive-intelligence-circle) and GitHub.
 
