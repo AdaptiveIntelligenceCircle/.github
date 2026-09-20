@@ -62,7 +62,7 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 | Project | Description | Status |
 |----------|--------------|---------|
 | **Adaptive AI** | Core framework for meta-learning, context adaptation, and self-defense. | 🧩 Pre-release |
-| **IBCS (Private repo)** | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
+| **IBCS** | Introspective Behavioral Compiler System — reasoning and simulation layer. | In Progress |
 | **Adaptive OS** | Distributed adaptive operating system kernel for intelligent infrastructure. | Prototype |
 | **AI for Driver** | Real-world application of adaptive AI for driver safety and decision-making. | Active |
 | **Driver Introspective Proxy** | Behavioral proxy system for human-AI co-adaptation. | In Progress |
