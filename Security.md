@@ -4,7 +4,7 @@ AIC prioritizes security as part of its ethical covenant.
 
 ## Reporting Vulnerabilities
 - Please report security issues responsibly.
-- Contact: security@aic.global
+- Contact: https://opencollective.com/adaptive-intelligence-circle
 - Do not disclose vulnerabilities publicly until they are acknowledged and addressed.
 
 ## Scope
