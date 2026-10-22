@@ -9,7 +9,7 @@ Adaptive Intelligence Circle (AIC) is committed to building an ethical, inclusiv
 - Collaboration must remain constructive and transparent.
 
 ## Enforcement
-- Reports of misconduct can be sent to: https://opencollective.com/adaptive-intelligence-circle 
+- Reports of misconduct can be sent to: https://opencollective.com/adaptive-intelligence-circle or **adaptiveintelligencecircle@zohomail.com**
 - Violations may result in warnings or removal from participation.
 - Decisions are guided by the covenant, not by financial or political interests.
 
