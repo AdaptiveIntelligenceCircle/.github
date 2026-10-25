@@ -95,7 +95,7 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 - **The Leading Niche (LeadWithAI Podcast)** — narrative & spotlight.  
 - **The AI Alliance** — webinars & open-source collaboration.  
 - **FlyRankAI** — internship pipeline for continuity.
-- **DGPA**: Digital Public Goods Alliance for NGO/Non-Profit, Pilot Program,...
+- **DPGA**: Digital Public Goods Alliance for NGO/Non-Profit, Pilot Program,...
 - **Zenodo**: Open Research Platform that funded by European Union. 
 ---
 
