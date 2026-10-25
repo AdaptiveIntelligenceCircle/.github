@@ -19,7 +19,7 @@
 
 ## OVERVIEW
  
-Adaptive Intelligence Circle (AIC) is a non-profit open technology organization founded by Nguyen Duc Tri in April 2025, with a vision towards a decentralized, civilized protocol that creates positive change in Global South and the world at large. AIC focuses on key 21st-century issues such as decentralized governance, Ethical From Kernel, Zero donation (not receive grants from Government/Big Tech or unrealible organization) and the third path. The organization respects the principle of software freedom while also upholding ethical and transparent infrastructure development principles. As of July 2026, AIC has a large volume of diverse repositories across all popular platforms such as Github, Open Collective, Codeberg, and GitLab, and is also promoted through YouTube, LinkedIn, Reddit, Substack, and Apple Podcast with LeadWithAI (#1 Tech).
+Adaptive Intelligence Circle (AIC) is a non-profit open technology organization founded by Nguyen Duc Tri in April 2025, with a vision towards a decentralized, civilized protocol that creates positive change in Global South and the world at large. AIC focuses on key 21st-century issues such as decentralized governance, Ethical From Kernel, Zero donation (not receive grants from Government/Big Tech or unrealible organization) and the third path. The organization respects the principle of software freedom while also upholding ethical and transparent infrastructure development principles. As of July 2026, AIC has a large volume of diverse repositories across all popular platforms such as Github, Open Collective, Codeberg, and GitLab, and is also promoted through YouTube, LinkedIn, Reddit, Substack,Medium and Apple Podcast with LeadWithAI (#1 Tech).
 
 ## The reason of why AIC must exists
 
@@ -85,7 +85,7 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 
 ---
 
-## 🌐 Strategic Collaborations (as of 8/2026)
+## 🌐 Strategic Collaborations (as of 10/2026)
 
 <img src="./Designers.png" alt="Logo" />
 
@@ -95,7 +95,8 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 - **The Leading Niche (LeadWithAI Podcast)** — narrative & spotlight.  
 - **The AI Alliance** — webinars & open-source collaboration.  
 - **FlyRankAI** — internship pipeline for continuity.
-
+- **DGPA**: Digital Public Goods Alliance for NGO/Non-Profit, Pilot Program,...
+- **Zenodo**: Open Research Platform that funded by European Union. 
 ---
 
 ## 🧭 About the Founder
