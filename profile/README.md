@@ -97,6 +97,7 @@ Together, these projects form a **distributed cognitive infrastructure** — bri
 - **FlyRankAI** — internship pipeline for continuity.
 - **DPGA**: Digital Public Goods Alliance for NGO/Non-Profit, Pilot Program,...
 - **Zenodo**: Open Research Platform that funded by European Union. 
+- **Lounge.ai**: Open Platform for founders.
 ---
 
 ## 🧭 About the Founder
